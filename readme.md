@@ -15,22 +15,6 @@ This project involves building, training, and evaluating a machine learning mode
 - **Training and Evaluation**: Detailed training process with metrics like accuracy and loss tracked over epochs.
 - **Visualization**: Plots of training history and model predictions to aid in performance evaluation.
 
-## Installation and Setup
-1. Clone this repository:
-    ```bash
-    git clone https://github.com/your-username/mnist-digit-classification.git
-    cd mnist-digit-classification
-    ```
-
-2. Install the required packages:
-    ```bash
-    pip install -r requirements.txt
-    ```
-
-3. Run the Jupyter notebook or script:
-    ```bash
-    jupyter notebook notebooks/mnist_classification.ipynb
-    ```
 
 ## Dataset
 The MNIST dataset consists of 60,000 training images and 10,000 testing images of handwritten digits, each image being a 28x28 grayscale image labeled from 0 to 9.
